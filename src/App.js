@@ -44,13 +44,6 @@ function App() {
             </div>
           </div>
         </div>
-        {/* <svg className="svg" height="100%" width={dynamicWidth}>
-          <path d={d} stroke="white" stroke-width="10px" />
-        </svg> */}
-
-        {/* <svg width="200" height="200">
-          <circle class="path" cx="100" cy="100" r="96" stroke="blue" stroke-width="4" fill="none" />
-        </svg> */}
 
         
       </div>
