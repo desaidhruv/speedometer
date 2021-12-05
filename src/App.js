@@ -26,7 +26,7 @@ function App() {
           {/* <!-- Circle element of radius 50 units. --> */}
           {/* <!-- (Rotated 90° CCW to put start point is at top.) --> */}
           <circle id="c" cx="60" cy="60"
-            r="50" fill="none" stroke="#EE9737"
+            r="42" fill="none" stroke="#EE9737"
             stroke-width="2.5"
             stroke-dashoffset={arclen}
             stroke-dasharray="314.16"

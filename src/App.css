@@ -33,40 +33,10 @@
     /* background-color: blue; */
     position: absolute;
 }
-.circle1{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width: 170px;
-    height: 170px;
-    border-radius: 50%;
-    /* background-color: blue; */
-    position: absolute;
-}
-.circle2{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width: 150px;
-    height: 150px;
-    border-radius: 50%;
-    background-color: red;
-    position: absolute;
-}
-.circle3{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width: 170px;
-    height: 170px;
-    border-radius: 50%;
-    background-color: yellow;
-    position: absolute;
-}
 .text {
     color: white;
     font-weight: bold;
-    font-size: 3rem;
+    font-size: 2.4rem;
     /* margin-left: 8px; */
 }
 .kmph {
