@@ -41,7 +41,7 @@ function App() {
             </defs>
           </svg>
 
-          <img src={speedNumbers} />
+          {/* <img src={speedNumbers} /> */}
           <div className="innerCircle">
             <div className="innerText">
               {count}
